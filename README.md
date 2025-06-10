@@ -1,6 +1,9 @@
 
 # Rapid Local Repair for Adversarially Robust LSTM Intrusion Detection
 
+## Team Member
+Jennifer Liu
+
 ## Introduction  
 This repo contains code and data to reproduce our NeurIPS 2025 experiments on fine-tuning LSTM-based intrusion detection models for adversarial robustness.
 
